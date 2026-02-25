@@ -94,12 +94,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Application Preview
-
-(Add a screenshot of your Streamlit app here)
-
----
-
 ## 🌐 Deployment Options
 
 This application can be deployed using:
@@ -126,7 +120,7 @@ It is portfolio-ready and suitable for showcasing ML deployment skills.
 
 ## 👨‍💻 Author
 
-Your Name  
+SYED TAIYABULLAH  
 Aspiring Data Scientist | Machine Learning Enthusiast 🚀  
 
 ---
